@@ -9,4 +9,4 @@ Each problem solution is provided in its respective directory. To visualize the 
 1. Clone this repository to your computer using the following command in your terminal:
 
 ```shell```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/CaioWing/ComputationalAerodynamics
