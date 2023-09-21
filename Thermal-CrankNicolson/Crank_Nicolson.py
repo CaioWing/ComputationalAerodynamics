@@ -1,13 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
-import json
-
-# The AnimationPlotter class allows for the creation of an animated plot of temperature data over
-# time.
-import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib.animation import FuncAnimation
 
 class AnimationPlotter:
     def __init__(self, temperatures, analitic_T):
